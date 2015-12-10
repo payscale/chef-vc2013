@@ -1,4 +1,4 @@
-name			 "vc2013:
+name			 "vc2013"
 maintainer       "PayScale"
 maintainer_email "pscore@payscale.com"
 license          "Apache 2.0"
